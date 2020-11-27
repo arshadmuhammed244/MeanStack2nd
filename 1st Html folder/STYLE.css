@@ -1,0 +1,57 @@
+/* TAG NAME OR ID OR CLASS
+property :value;
+property1:value2
+
+
+
+*/
+body{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.co5ReEQmFJ2BAH7QmHLCcwHaEl&pid=Api&P=0&w=302&h=188);
+    background-repeat: initial;
+    background-size: 100% 100%;
+
+    background-color: rgb(197, 157, 157);
+}
+
+
+
+
+h1{
+
+
+
+    color:rgb(155, 19, 19)
+}
+
+#one{
+    
+    color:rgba(77, 56, 44)
+}
+
+div{
+
+    border-style: solid;
+    border-color: royalblue;
+    border-width: 5px;
+    background-color: yellow;
+    width: 50%;
+}
+
+#mi{
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    background-color: rgb(80, 83, 255);
+
+
+}
+
+.on{
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 5px;
+    background-color: cornsilk;
+
+
+
+}

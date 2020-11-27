@@ -1,0 +1,18 @@
+#top
+
+{
+border-style: solid;
+border-color: darkblue;
+border-width: 5px;
+margin-top: 75px;
+margin-left: 50px;
+
+}
+#bottom{
+
+    border-style: solid;
+    border-color: darkorange;
+    border-width: 5px;
+    padding-left: 300px;
+    margin-bottom: 50px;
+}
